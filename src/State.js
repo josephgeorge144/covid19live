@@ -84,9 +84,7 @@ class State extends Component {
             })}
           </Accordion>
         </div>
-        <h2>{totalcases}</h2>
-        <h2>{totaldeaths}</h2>
-        <h1>{totalconfirmed}</h1>
+      
       </div>
     );
   }

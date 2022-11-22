@@ -30,7 +30,7 @@ class Header extends Component {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
                 <Link className='nav-link' to='/'>India</Link>
-                <Link to='/World' className='nav-link'>World</Link>
+                
             
           </Nav>
           <Nav>

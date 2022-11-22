@@ -17,29 +17,7 @@ function App(props) {
       
     <>
     <Header/>
-    <div>{
     
-
-    // Create the smallNumbers array below
-   smallNumbers=bigNumbers.map((num,key) =>{
-
-    
-    
-    
-    return <span>{num/10}</span>})
-    
-
-    
-       
-    
-        }
-        <h1>this is the arrayyasdiurgouq {smallNumbers}</h1>
-        <h4>{bigNumbers}</h4>
-      
-      
-      
-       
-        </div>
     
     </>
 
